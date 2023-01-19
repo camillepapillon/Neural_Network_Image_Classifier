@@ -5,6 +5,14 @@ this Neural Netword is from Oxford of 102 flower categories. The model will then
 
 The project is broken down into multiple steps:
 
--Load the image dataset and create a pipeline.
--Build and Train an image classifier on this dataset.
--Use the trained model to perform inference on flower images.
+### 1. Load the image dataset and create a pipeline.
+
+
+
+
+### 2. Build and Train an image classifier on this dataset.
+
+
+
+
+### 3. Use the trained model to perform inference on flower images.
