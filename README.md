@@ -1,5 +1,6 @@
-# Neural_Network_Image_Classifier
+# Neural Network project : Building an image classifier
 
+This project was done as part of the Udacity Nanodegree : Introduction to Machine Learning with Tensorflow Nanodegree during the module on Neural Networks. 
 In this project, an image classifier is trained to recognize different species of flower. The dataset used to train 
 this Neural Netword is from Oxford of 102 flower categories. The model is then be exported to a python application to test different species of flower. 
 
