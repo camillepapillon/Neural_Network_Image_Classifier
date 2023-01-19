@@ -1,7 +1,7 @@
 # Neural_Network_Image_Classifier
 
 In this project, an image classifier is trained to recognize different species of flower. The dataset used to train 
-this Neural Netword is from Oxford of 102 flower categories. The model will then be exported to a python application. 
+this Neural Netword is from Oxford of 102 flower categories. The model is then be exported to a python application to test different species of flower. 
 
 The project is broken down into multiple steps:
 
